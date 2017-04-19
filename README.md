@@ -1,4 +1,7 @@
-# api documentation for  [split.js (v1.2.0)](https://github.com/nathancahill/Split.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-split.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-split.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-split.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-split.js)
+# npmdoc-split.js
+
+#### api documentation for  [split.js (v1.2.0)](https://github.com/nathancahill/Split.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-split.js.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-split.js) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-split.js.svg)](https://travis-ci.org/npmdoc/node-npmdoc-split.js)
+
 #### A lightweight utility for creating adjustable split views
 
 [![NPM](https://nodei.co/npm/split.js.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/split.js)
